@@ -39,6 +39,15 @@ The following **additional** features are implemented:
 
 Describe any challenges encountered while building the app.
 
+
+## Group 8 Project Ideas
+
+### Idea 1: Spotify
+- What: Clone of the Spotify app
+- Who: Users who like listening to music
+- Why: We all use Spotify and want to see if we can recreate the features of the app
+- Challenges: Figuring out what limitations the Spotify API has.
+
 ## License
 
     Copyright [2024] [name of copyright owner]
